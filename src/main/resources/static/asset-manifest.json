@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0fef8d25.chunk.css",
+    "main.js": "/static/js/main.b7b93384.chunk.js",
+    "main.js.map": "/static/js/main.b7b93384.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.b7c43ba8.js",
+    "runtime~main.js.map": "/static/js/runtime~main.b7c43ba8.js.map",
+    "static/css/2.ff9ea1f9.chunk.css": "/static/css/2.ff9ea1f9.chunk.css",
+    "static/js/2.2b656f4d.chunk.js": "/static/js/2.2b656f4d.chunk.js",
+    "static/js/2.2b656f4d.chunk.js.map": "/static/js/2.2b656f4d.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.edef90a1ab585b5e77dad0339535986b.js": "/precache-manifest.edef90a1ab585b5e77dad0339535986b.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.ff9ea1f9.chunk.css.map": "/static/css/2.ff9ea1f9.chunk.css.map",
+    "static/css/main.0fef8d25.chunk.css.map": "/static/css/main.0fef8d25.chunk.css.map",
+    "static/media/AP-book.png": "/static/media/AP-book.fbcf836b.png",
+    "static/media/calendar.png": "/static/media/calendar.ecaf4209.png",
+    "static/media/contact-us-programs.png": "/static/media/contact-us-programs.e2ca9eb8.png",
+    "static/media/entertainment.jpg": "/static/media/entertainment.96b33a75.jpg",
+    "static/media/fitness.jpg": "/static/media/fitness.921edb43.jpg",
+    "static/media/gymnastics.jpg": "/static/media/gymnastics.7fb0bf59.jpg",
+    "static/media/kidsTest.jpg": "/static/media/kidsTest.b5759d8e.jpg",
+    "static/media/other.jpg": "/static/media/other.3f52c2a8.jpg",
+    "static/media/parkour.jpg": "/static/media/parkour.46bb2dcd.jpg",
+    "static/media/App.css": "/static/media/parkourLogin2.a5d7d09a.jpg",
+    "static/media/Register.css": "/static/media/parkourRegister.1ba95625.jpg",
+    "static/media/parkourhomepage.png": "/static/media/parkourhomepage.354f2d09.png",
+    "static/media/spykidrope.jpg": "/static/media/spykidrope.8fc5351b.jpg"
+  }
+}
